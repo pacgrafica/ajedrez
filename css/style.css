@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.negro {
+    background-color: black;
+    height: 100px;
+}
+
+.row , .col-2 {
+    border: solid 2px black;
+}
